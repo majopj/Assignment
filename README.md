@@ -1,5 +1,5 @@
 # Headspin projects
-## 1.finds a number is palindrome or not
+## 1.find a number is palindrome or not
 ### introduction
 This program checks if an integer is a palindrome,meaning the number reversed is the same number
 ### working
