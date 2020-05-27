@@ -4,3 +4,8 @@
 This program checks if an integer is a palindrome,meaning the number reversed is the same number
 ### working
 The code creates a function that takes an integer as an argument.There is two variable,one is to store the orginal number and the other is to store the reversal.Then compare the two variables,if they are equal then the number is a palindrome, and if they are not equal then the number is not a palindrome.
+## 2.list of strings in a rectangular frame
+### introduction
+This code takes a list of strings as input and prints them one per line in a rectangular frame.
+### working
+The function inputs a list of strings.To get the width of the frame take the length of the largest word in the list.To go through every element in the list will need a loop. And print each element between the 2 stars("*").
