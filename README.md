@@ -9,3 +9,8 @@ The code creates a function that takes an integer as an argument.There is two va
 This code takes a list of strings as input and prints them one per line in a rectangular frame.
 ### working
 The function inputs a list of strings.To get the width of the frame take the length of the largest word in the list.To go through every element in the list will need a loop. And print each element between the 2 stars("*").
+## 3.sum of series
+### introduction
+The code disply the sum of following series:1/1!+2/2!+3/3!+.....N/N!
+### working
+The function accepts an integer number upto which the sum of series has to found.There is two variable one is to store the factorial(fact) and the other is to store the result(res).res is initialised to 0 and fact to 1.The sum is calculated through a for loop using the range inputted.
